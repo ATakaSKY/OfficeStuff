@@ -2,7 +2,7 @@ import {Component} from "@angular/core"
 
 @Component({
 	selector:"my-app",
-	template:"<h1>My first angular project</h1>"
+	template:`<button type="button" class="btn btn-primary">Primary button!!</button>`
 })
 
 export class AppComponent{
