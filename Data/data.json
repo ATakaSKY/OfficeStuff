@@ -1,0 +1,31 @@
+
+	{
+		"Client_ID":45645654,
+		"Entity_Name":"Name of Entity",
+		"Public_Interest_Entity":"No",
+		"Industry_SIC":"Text Information",
+		"Status_Client_Assessment":"In Progress",
+		"Status_third_party_Assessment":"In Progress",
+		"GIS_Details":{
+			"GIS_ID":"GIS ID",
+			"Global_Ut_Parent_ID":"Global Ut Parent ID",
+			"KPMG_External_Audit_Client":"KPMG External Audit Client",
+			"Direct_Parent_ID":"Direct Parent ID",
+			"Global_Ut_DUNS_Number":"Global Ut DUNS Number",
+			"GIS_Name":"GIS Name",
+			"Global_Ultimate_Parent_Name":"Global Ultimate Parent Name",
+			"Restricted_Entity_Status":"Restricted Entity Status",
+			"Direct_Parent_Name":"Direct Parent Name"
+		},
+		"Client_Acceptance":{
+			"Evaluation_ID":"Evaluation ID",
+			"Client_Risk_Grade":"Client Risk Grade",
+			"Evaluation_Type":"Evaluation Type",
+			"Approved_on":"Approved on",
+			"State":"State",
+			"Created_on":"Created on",
+			"Last_modified":"Last modified",
+			"CEAC_partner_lead":"CEAC partner lead",
+			"Requester":"Requester"
+		}
+	}

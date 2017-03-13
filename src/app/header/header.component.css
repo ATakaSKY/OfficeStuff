@@ -1,0 +1,23 @@
+.navbar-default{
+	background-color: dodgerblue;
+}
+
+.navbar-right span{
+	color:#fff;
+}
+
+@media (min-width: 768px){
+	.navbar-nav>li>span {
+    	padding-top: 15px;
+    	padding-bottom: 15px;
+	}
+}
+
+.navbar-nav>li>a{
+	color:#fff;
+	background-color:dodgerblue;
+}
+
+.navbar-right li:first-child{
+	color:#fff;
+}

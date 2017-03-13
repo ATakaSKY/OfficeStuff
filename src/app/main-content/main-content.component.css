@@ -1,0 +1,70 @@
+section.main-content h3{
+	font-size:1.5em;
+	font-weight: bolder;
+}
+
+section.main-content p{
+	font-size:.8em;
+	line-height: .9em;
+	font-weight: bold;
+}
+
+section.main-content th{
+	font-size:.8em;
+}
+
+section.main-content td{
+	font-size:.8em;
+	font-weight: bold;
+}
+
+.giscontent{
+	border-bottom: 1px solid grey;
+}
+
+.topcontent{
+	min-height:60px;
+	max-height: 500px;
+	background-color:#ccccff;
+	margin-top: -20px
+}
+
+span.refresh{
+	border:1px solid grey;
+	padding:5px;
+	color:blue;
+	font-weight: bold;
+	font-size:.5em;
+}
+
+a.add{
+	cursor: pointer;
+	border:1px solid grey;
+	padding:5px;
+	color:green;
+	font-weight: bold;
+	font-size:.5em;
+	text-decoration: none
+}
+
+a.refresh{
+	cursor: pointer;
+	border:1px solid grey;
+	padding:5px;
+	color:blue;
+	font-weight: bold;
+	font-size:.5em;
+	text-decoration: none
+}
+
+.spacespan{
+	padding-left:5px;
+}
+
+section.main-content tbody{
+	color: #777;
+}
+
+section.main-content p{
+	color: #777;
+}
